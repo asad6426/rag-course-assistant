@@ -1,0 +1,15 @@
+{
+  "answerable_questions": 19,
+  "unanswerable_questions": 5,
+  "hit_rate_at_1": 1.0,
+  "hit_rate_at_3": 1.0,
+  "mrr": 1.0,
+  "offline_answer_accuracy": 0.947,
+  "abstention_accuracy": 1.0,
+  "failures": [
+    {
+      "q": "Where is LangGraph taught?",
+      "got": "I could not find this in the course documents."
+    }
+  ]
+}
